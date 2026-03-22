@@ -1,8 +1,6 @@
 # 📘 Domine la Inteligencia Artificial  
 ## Machine Learning y Deep Learning con Python  
 
-**Autor:** Carlos Mario Pineda Pertúz  
-
 ---
 
 ## 📖 Descripción
